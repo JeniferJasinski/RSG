@@ -19,13 +19,15 @@ div.polaroid {
   margin-bottom: 25px;
 }
 
+div.polaroid:last-child {
+     margin-right: 0;
+}
 img {
-   width: 90%;
-   height: 90%;
+   width: 100%;
+   height: 100%;
 }
 
 div.container {
-  
   text-align: center;
   padding: 10px 20px;
 }
