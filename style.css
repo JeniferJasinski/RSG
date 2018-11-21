@@ -12,6 +12,12 @@ body {
     margin: auto;
 }
 
+.flyer {
+    float: left;
+    width: 50%;
+    height: auto;
+}
+
 div.polaroid {
   width: 18%;
   background-color: white;
